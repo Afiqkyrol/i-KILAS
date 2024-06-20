@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\js",
+    "\\public\\plugins",
+    "\\public\\plugins\\overlayScrollbars",
+    "\\public\\plugins\\overlayScrollbars\\css",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\login",
+    "\\resources\\views\\user"
+  ],
+  "SelectedNode": "\\public\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css",
+  "PreviewInSolutionExplorer": false
+}
